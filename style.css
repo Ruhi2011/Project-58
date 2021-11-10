@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+background: rgb(36, 238, 5);
+}
+img {
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+h1 {
+    font-size: 20px;
+    color: black;
+}
+p {
+    font-size: 18px;
+    color: black;
+}
+.line {
+    height: 6px;
+    background-color: rgb(36, 238, 5);
+    width: 70px;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.link {
+    color: greenyellow;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
